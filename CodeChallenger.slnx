@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="CodeChallenger.Tests/CodeChallenger.Tests.csproj" Id="f3721bbb-03fc-4419-907b-6d76bc21444d" />
   <Project Path="CodeChallenger/CodeChallenger.csproj" />
 </Solution>
